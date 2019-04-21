@@ -1,0 +1,16 @@
+Assignment One, BasicHaskell.lhs
+This was the first experience with Haskell and is a basic Haskell assignment
+Some functions were needed to be completed with direct recursion:
+positives, oddElts, union, occursOnce
+Other functions were tail recursive
+isPrime, longest, allPositions, convert
+Then a map was implemented and letter frequencies were counted
+There are tests for this in the code
+
+Assignment Two, MoreHaskell.lhs
+This was the second haskell assignment and thus more difficult than the first. 
+A large section of this assignment was using the haskell features of higher order functions, list comphrehensions
+The next section was on Binary Search Trees
+Then Graph Algorithms using sets
+All of which needed to have tests as well.
+

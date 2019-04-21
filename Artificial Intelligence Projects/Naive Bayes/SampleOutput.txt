@@ -1,0 +1,21 @@
+Unlabelled data set has the following features and classes: 
+For instance 0 we have the following features:  
+1.0  1.0  0.0  0.0  1.0  1.0  0.0  0.0  0.0  0.0  0.0  0.0   The class for this instance is: 0
+For instance 1 we have the following features:  
+0.0  0.0  1.0  1.0  0.0  0.0  1.0  1.0  1.0  0.0  0.0  1.0   The class for this instance is: 1
+For instance 2 we have the following features:  
+1.0  1.0  1.0  1.0  1.0  0.0  1.0  0.0  0.0  0.0  1.0  1.0   The class for this instance is: 1
+For instance 3 we have the following features:  
+0.0  1.0  0.0  0.0  0.0  0.0  1.0  0.0  1.0  0.0  0.0  0.0   The class for this instance is: 0
+For instance 4 we have the following features:  
+1.0  1.0  1.0  0.0  1.0  1.0  0.0  1.0  0.0  0.0  1.0  1.0   The class for this instance is: 0
+For instance 5 we have the following features:  
+1.0  1.0  1.0  1.0  1.0  1.0  0.0  0.0  0.0  1.0  1.0  1.0   The class for this instance is: 1
+For instance 6 we have the following features:  
+0.0  0.0  0.0  0.0  1.0  1.0  0.0  1.0  0.0  0.0  0.0  0.0   The class for this instance is: 0
+For instance 7 we have the following features:  
+0.0  1.0  0.0  1.0  1.0  1.0  1.0  0.0  0.0  0.0  1.0  1.0   The class for this instance is: 0
+For instance 8 we have the following features:  
+1.0  1.0  1.0  1.0  1.0  0.0  1.0  0.0  0.0  1.0  0.0  1.0   The class for this instance is: 1
+For instance 9 we have the following features:  
+1.0  1.0  0.0  0.0  0.0  1.0  0.0  1.0  0.0  0.0  1.0  0.0   The class for this instance is: 0

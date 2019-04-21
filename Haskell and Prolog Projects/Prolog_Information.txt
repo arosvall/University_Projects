@@ -1,0 +1,10 @@
+Assignment Three, Basic_Prolog.pl
+This was the first experience with prolog, a logic programming language. The assignment was to create an AI Shrink which would take input and then make a correct response according to rules defined in the assignment
+The tasks were to represent the sentence as a list of atoms, print the sentence, answer the input and provide tests proving it worked
+Examples of replacements were:
+You ... → Let us not talk about me . 
+I feel ... → What makes you feel ... ? 
+
+Assignment Four, More_Prolog.pl
+This was the final prolog assignment. This assignment was to create a road planner in the north island of new zealand, finding paths from one city to another based on criteria such as distances, not visiting a city more than once, and finding all possible routes
+There were also routes to be found which went through or avoided specific towns
