@@ -1,0 +1,3 @@
+This folder contains the two projects completed using Apache Spark and Hadoop backend, written in Java code. 
+The first was a project which read in a data file and created ten random training/test splits before running Linear Regression and Decision Tree algorithms.
+The second was a project where each student found a large data file (>20MB, >30 features) and ran a chosen algorithm on them, normalising the data and creating principal components in order to get accuracy comparisons and measures
