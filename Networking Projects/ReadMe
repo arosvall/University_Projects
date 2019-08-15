@@ -1,0 +1,10 @@
+Within this folder are four projects completed at university which relate to computer networks.
+
+The first project, the Sniffer project, is both python and C versions of a program designed to break down packets and find their headers at the link, network and transport layers. 
+This project uses the pcap library after capturing packets, and is passed a pcap file to begin the program.
+
+The second project, the Addressing and Switch project, is a python project which either breaks down a packet to get the source and destinations within a packet, adding them to a learning switch, or to wrap a packet with appropriate headers.
+
+The third project, the SDN project, is a python project which utilises the OpenFlow software in order to accessing communication between ports, either blocking between two ports, reporting on the flow between them, or when a port has sent more than x packets stopping it briefly from sending more.
+
+The final project, Host and Socket, is a very simple C project which creates a socket and a host, allowing the host to send a simple string to the socket before closing the connection
